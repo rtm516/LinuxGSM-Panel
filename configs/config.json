@@ -1,0 +1,10 @@
+{
+	"port": 3005,
+	"logins": [
+		{
+			"user": "admin",
+			"pass": "password",
+			"admin": 1
+		}
+	]
+}
